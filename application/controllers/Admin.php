@@ -21,7 +21,7 @@ class Admin extends CI_Controller
 	public function index()
 	{	
 		$this->load->view('admin/login');
-		echo"123";
+		echo"1234567";
 	}
 	public function view_meeting()
 	{
