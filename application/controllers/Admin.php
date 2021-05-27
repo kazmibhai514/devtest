@@ -42,6 +42,13 @@ class Admin extends CI_Controller
 		echo "string";
 		echo "string";
 	}
+
+
+	public function taimoor()
+	{
+		echo "This Function Written By Taimoor";
+	}
+
 	public function view_meeting()
 	{
 		if(empty($_GET['id']))
