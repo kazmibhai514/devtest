@@ -26,6 +26,10 @@ class Admin extends CI_Controller
 		echo "hello new testing";
 
 		echo "Taimoor Ali Zafar Added This Line For Testing";
+
+		echo "saqib adding lines for testing";
+		echo "saqib testing push and pull functiionality of  github";
+		echo "saqib testing for github functions";
 	}
 	public function view_meeting()
 	{
