@@ -33,7 +33,14 @@ class Admin extends CI_Controller
 
 		echo "Line 2 Added By Taimoor Ali Zafar";
 		echo "Line 3 Added By Taimoor Ali Zafar";
+		
+	}
 
+
+	public function getData()
+	{
+		echo "string";
+		echo "string";
 	}
 	public function view_meeting()
 	{
