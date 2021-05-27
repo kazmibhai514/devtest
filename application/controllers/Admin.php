@@ -21,11 +21,13 @@ class Admin extends CI_Controller
 	public function index()
 	{	
 		$this->load->view('admin/login');
-		echo "1234567";
-		echo "1234";
-		echo "hello new testing";
+		echo"1234567";
+		echo"1234";
+		echo"hello new testing";
 
 		echo "Taimoor Ali Zafar Added This Line For Testing";
+		echo "Line 2 Added By Taimoor Ali Zafar";
+		echo "Line 3 Added By Taimoor Ali Zafar";
 	}
 	public function view_meeting()
 	{
