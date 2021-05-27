@@ -23,6 +23,7 @@ class Admin extends CI_Controller
 		$this->load->view('admin/login');
 		echo"1234567";
 		echo"1234";
+		echo"hello new testing";
 	}
 	public function view_meeting()
 	{
